@@ -1,0 +1,265 @@
+body {
+    font: 20px "Times New Roman", Times, serif;
+    background-color: #F5F5F5;
+    line-height: 1.8;
+    color: #444;
+    padding-top: 0px !important;
+    padding-bottom: 40px;
+  }
+
+p {font-size: 16px;}
+.margin {margin-bottom: 15px;}
+
+.container-fluid {
+  padding: 0px;
+  /*padding-bottom: 70px;*/
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+hd1 {
+        margin-bottom: 20px; /* Adjust the margin as needed */
+    }
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  color: black; 
+}
+
+a:hover {
+  color: #5D34A5; 
+}
+
+.nav-title{
+  margin-left: 15px;
+  margin-right: 15px;
+
+}
+#sticky-navbar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .wk1-box {
+  background-color: #FFCBCB; 
+  width: 70%; 
+  height: 270px; 
+  border: 1px solid #FFCBCB; 
+  margin: 0 auto; 
+}
+
+.gray-box {
+  background-color: #BEBEBE; 
+  width: 70%; 
+  height: 270px; 
+  border: 1px solid #BEBEBE; 
+  margin: 0 auto; 
+}
+
+.gray-circle {
+  background-color: #BEBEBE; /* Adjust the color as needed */
+  width: 200px; /* Adjust the width as needed */
+  height: 200px; /* Same as the width to create a circle */
+  border-radius: 50%; /* Makes the element circular */
+  margin: 0 auto; /* Center-align the circle horizontally */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align:center;
+}
+
+.wk1-circle {
+  background-color: #FFE5EC; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk2-circle {
+  background-color: #CAF1FF; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk3-circle {
+  background-color: #D1FFBD; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk4-circle {
+  background-color: #FFB888; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk5-circle {
+  background-color: #FDD771; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk6-circle {
+  background-color: #E1B6FF; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk7-circle {
+  background-color: #FFB3B2; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk8-circle {
+  background-color: #ABCEA9; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk9-circle {
+  background-color: #FEFF88; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk10-circle {
+  background-color: #B1D0FE; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.wk15-circle {
+  background-color: #E4A0F7; 
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%; 
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.row p {
+  text-align: center;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+
+.navbar {
+  height: 80px; 
+  background-color: #C1D5F0; 
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.image-text-container {
+    display: flex; 
+    align-items: center; 
+        }
+
+.image {
+    max-width: 50%; /* Adjust the width as needed */
+    height: auto; /* Maintain the image's aspect ratio */
+    margin-right: 20px; /* Add space between the image and text */
+        }
+
+li {
+  font-family: inherit; /* Inherit the font from the parent (body) */
+  font-size: inherit;   /* Inherit the font size from the parent (body) */
+  line-height: inherit; /* Inherit the line height from the parent (body) */
+        }
+
+ul {
+    list-style-type: disc; /* Use bullets for list items */
+    margin-left: 20px;    /* Add some left margin for indentation */
+        }
+
+
+
+/*     Montserrat, sans-serif; */
